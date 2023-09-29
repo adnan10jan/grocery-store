@@ -1,0 +1,86 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  width: 100%;
+  background: #343a40;
+}
+
+/* Centering */
+form {
+  margin: 0 auto;
+}
+
+.col {
+  margin: 0 auto;
+}
+
+footer {
+  margin-top: 100px;
+}
+
+/* Rounding buttons */
+
+.btn {
+  border-radius: 0.25rem;
+}
+
+.nav-btn {
+  margin: 0.375rem;
+}
+
+/* Nav Link */
+
+.active-nav-link {
+  color: #2ecc72 !important;
+}
+
+/* FAS ICON */
+
+.fas-125 {
+  font-size: 1.25rem;
+  padding: 1rem;
+  color: #53a846 !important;
+}
+
+.fas-125:hover {
+  transform: scale(1.5);
+  transition: transform 0.2s;
+}
+
+.text-125 {
+  font-size: 1.25rem;
+}
+
+/* CART */
+
+.cart-img {
+  display: block;
+  max-width: 100%;
+  padding: 1rem;
+  margin: auto;
+}
+
+.cart-info {
+  padding: 1rem;
+}
+
+/* CATEGORY */
+
+.cat-card {
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.cat-card p {
+  margin: auto auto;
+  padding: 1rem;
+}
+
+.card-size{
+  width: 200px;
+  height: 250px;
+}
